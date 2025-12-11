@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CivicEye AI",
+  "description": "An AI-powered civic issue detection system that analyzes photos and CCTV footage to report infrastructure problems like potholes, garbage dumps, and broken streetlights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
